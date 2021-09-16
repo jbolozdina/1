@@ -1,4 +1,4 @@
 lion r
-tiger pp
+tiger p
 leopard
 turtle
